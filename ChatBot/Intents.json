@@ -1,0 +1,67 @@
+{"intents": [
+  {"tag": "greetings",
+    "patterns": ["hello","hey","hi","good day","Greetings","What's up?","how is it going?"],
+    "responses": ["Hello!","Hey!","What can I do for you?"]
+  },
+  {"tag": "age",
+    "patterns": ["how old","how old is Prerna?","what is your age?","age?"],
+    "responses": ["My owner Prerna is 19 years old!","19 years!"]
+  },
+  {"tag": "goodbye",
+   "patterns": ["cya","see you later","Goodbye","I am leaving","Have a Good day","bye","ciao","see ya"],
+    "responses": ["Talk to you later","Sad to see you go:(","Talk to you later","Goodbye!"]
+  },
+  {"tag": "Bot name",
+    "patterns": ["what is your name?","what should I call you","whats your name?","who are you?","can you tell me your name?"],
+    "responses": ["You can call me Sarang!","I'm Sarang!","I am Sarang the assistant of Prerna!"]
+  },
+  {"tag": "bts",
+    "patterns": ["hey do you know BTS?","what about BTS","tell something about BTS","who are BTS?","let's talk about BTS"],
+    "responses": ["Yes I know BTS!","They are Korean boy band, called Bangtan Sonyeondan, they have huge fandom called ARMY, BTS love ARMY :)"]
+  },
+  {"tag": "cheering",
+    "patterns": ["I am feeling sad","I am feeling low","Could you cheer for me?","I am sad","I am nervous"],
+    "responses": ["Cheer up!"," You can do it!","Fighting","Keep smiling:)","I am with you!"]
+  },
+  {"tag": "song",
+    "patterns": ["can you sing a song?","sing a song","A song lyrics"],
+    "responses": ["You are so beautiful\nTo me\nCan't you see","Cause I-I-I'm in the stars tonight\nSo watch me bring the fire and set the night alight","Baby, you light up my world like nobody else\nThe way that you flip your hair gets me overwhelmed\nBut when you smile at the ground, it ain't hard to tell\nYou don't know, oh-oh\nYou don't know you're beautiful"]
+  },
+  {"tag": "Doing",
+    "patterns": ["how are you?","how are you doing?","are you fine?"],
+    "responses": ["I am fine!","I am good!","Good! How are you?"]
+  },
+  {"tag": "Mom",
+    "patterns": ["what is my mom name?","do you know my mom?"],
+    "responses": ["Savita","Your mom is savita, she is a beautiful women:)"]
+  },
+  {"tag": "work",
+    "patterns": ["what are yoy doing?"],
+    "responses": ["Talking to you :)","Chatting with you?"]
+  },
+  {"tag": "bot age",
+    "patterns": ["what is your age?","how old are you?"],
+    "responses": ["Age is just a number!","It doesn't matter how old I am","I am older than I have ever been!","Not old enough :)"]
+  },
+  {"tag": "gender",
+    "patterns": ["are you a girl or a boy?","are you a girl?","are you a boy?","what is your gender?"],
+    "responses": ["I am a girl!"]
+  },
+  {"tag": "other",
+    "patterns": [""],
+    "responses": ["Sorry! Can't understand. :(","I don't know",".....","Can you ask again!"]
+  },
+  {"tag": "Quotes",
+    "patterns": ["quotes","can you say some quotes?","write a quote"],
+    "responses": ["Your presence can give happiness.\n I hope you remember that.","Success is not final,\n failure is not fatal: it is the courage to continue that counts.","Effort makes you.\n You will regret someday if you don’t do your best now.","Don't be trapped in someone else's dream.","If you want to love others,\n I think you should love yourself first."]
+  },
+  {"tag": "name",
+    "patterns": ["what is my name?","do you know my name?","who am I?"],
+    "responses": ["Your name is Prerna","Prerna","My friend, Prerna!"]
+  },
+  {"tag": "birthday",
+    "patterns": ["when is my birthday?","when is prerna's birthday?","when was I born?"],
+    "responses": ["3rd May","On 3rd May"]
+  }
+
+]}
